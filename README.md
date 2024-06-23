@@ -9,7 +9,7 @@ The thesis investigates the association between environmental variables (tempera
 ## Project Structure
 
 - **ARIMA_SARIMA_SARIMAX.ipynb**: Jupyter notebook containing code for ARIMA, SARIMA, and SARIMAX models.
-- **DLNM(try)**: Directory for Deep Learning and Neural Network modeling attempts.
+- **DLNM(try)**: Directory for exploring distributed lag nonlinear models.
 - **Data Cleaning**: Scripts and notebooks for data preprocessing and cleaning.
 - **Exploratory_analysis.ipynb**: Notebook exploring the dataset and initial data analysis.
 - **LSTM.ipynb**: Notebook containing code for LSTM model development and tuning.
